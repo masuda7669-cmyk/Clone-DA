@@ -83,4 +83,10 @@
         "expirydate": "05-05-2026",
         "Allowoffline": false
     },
+    {
+        "device_id": "adf800dbdd914c24",
+        "key": "pronoy124",
+        "expirydate": "01-05-2026",
+        "Allowoffline": false
+    },   
 ]
