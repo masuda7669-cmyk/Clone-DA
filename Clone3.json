@@ -88,5 +88,11 @@
         "key": "pronoy124",
         "expirydate": "01-05-2026",
         "Allowoffline": false
-    },   
+    },
+    {
+        "device_id": "96a91f6e9572380e",
+        "key": "1112",
+        "expirydate": "01-05-2026",
+        "Allowoffline": false
+    },      
 ]
